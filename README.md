@@ -1,2 +1,9 @@
 # Green_Screen
-This is small script i wrote to add background to the green screen images with help of python
+This script takes two arguments i.e green screen image and a background, it combines them in the resulting image.
+
+## Requirments
++ matplotlib
++ numpy
++ opencv-python
++ tk
++ pillow
