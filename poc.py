@@ -35,7 +35,7 @@ class Block:
 
 class Blockchain:
 
-    diff = 0
+    diff = 0  # one can adjust diff to take more for creating a single block, this is proof of work delay
     maxNonce = 2**32
     target = 2 ** (256-diff)
 
