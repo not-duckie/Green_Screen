@@ -24,3 +24,11 @@ Install python3 on your pc with Chrome/Chromium Browser and this script will to 
 ```
 pip install selenium
 ```
+## Installation
+
+1) Install Python3 on your PC
+2) Install the selenium library with pip
+3) Download and ChromeDriver to your path ( https://chromedriver.chromium.org/ )
+4) You're done
+
+
