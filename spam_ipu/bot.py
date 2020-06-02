@@ -41,7 +41,7 @@ Due to these reason we request postponing the exams and if the situation still r
 f = webdriver.Chrome()
 
 #---------------------- Login  ----------------------------------------------#
-f.get('https://account.codingblocks.com/login/google')
+f.get('https://app.storychief.io/login/google')
 
 email = f.find_element_by_id('identifierId')
 email.send_keys(email_id)
