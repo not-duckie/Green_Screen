@@ -1,2 +1,1 @@
-# Hacking_Scripts
-These are some hacking scripts i wrote in python,
+## Random Shit that dont require their own repo
